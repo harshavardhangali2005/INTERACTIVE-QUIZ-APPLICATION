@@ -23,9 +23,10 @@ The objective of the task is to create an educational tool that enhances learnin
  *2. Tools and Technologies Used*
 
 To develop this application, the following tools and technologies were used:
+ 
  *Frontend:*
   *HTML5, CSS3, JavaScript* – for building the structure, styling, and interactivity of the user interface.
-*Development Environment:*
+ *Development Environment:*
   *Visual Studio Code (VS Code)* – for writing and managing code.
   *Git & GitHub* – for version control and collaboration.
 
